@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luniv06
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning blockchain technology
+- 👀 I’m interested in cloud and application development
+- 🌱 I’m currently working on wireless technology
 - 📫 How to reach me : jameszvinul@gmail.com
 
 <!---
