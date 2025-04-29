@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luniv06
-- 👀 I’m interested in cloud and application development
-- 🌱 I’m currently working on wireless technology
+- 👀 I’m interested application development and python programming
+- 🌱 I’m currently working on wireless technology and python tools
 - 📫 How to reach me : jameszvinul@gmail.com
 
 <!---
