@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luniv06
-- 👀 I’m interested application development and python programming
+- 👀 I’m interested in application development and python programming
 - 🌱 I’m currently working on wireless technology and python tools
 - 📫 How to reach me : jameszvinul@gmail.com
 
